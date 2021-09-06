@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Rnwego
-- 👀 I’m interested in Software Development
+- 👀 I’m interested in Software Development & Web Development
 - 🌱 I’m currently learning Swift
 - 💞️ I’m looking to collaborate on hackathons and other coding projects
 - 📫 How to reach me https://www.linkedin.com/in/ruth-nwego-92146b195/
