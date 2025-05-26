@@ -1,10 +1,15 @@
-- 👋 Hi, I’m @Rnwego
-- 👀 I’m interested in Software Development & Web Development
-- 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on hackathons and other coding projects
-- 📫 How to reach me https://www.linkedin.com/in/ruth-nwego-92146b195/
+# 👋 Hello ~~world~~!
+I'm Ruth, a technical writer based in Berlin, Germany. I began my career as a software engineer and gradually transitioned into documentation, initially creating onboarding materials and best practices for new engineers. What started as a way to streamline the onboarding process turned into a passion for writing and breaking down complex concepts for users with varying technical backgrounds.
 
-<!---
-Rnwego/Rnwego is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Documentation skills
+- Gitbook
+- Markdown
+
+## Developer skills
+- Languages: Java, Typescript, Python
+- AWS (CloudFormation, CloudWatch, IAM, EC2)
+- Scrum methodologies
+- API development
+- Git & Github
+
+Feel free to connect on [LinkedIn](https://www.linkedin.com/in/ruth-nwego-92146b195/):)
